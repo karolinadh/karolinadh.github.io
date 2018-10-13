@@ -1,9 +1,49 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Stranka test</title>
-</head>
-<body>
-	<p>Test</p>
-</body>
-</html>
+---
+layout: page
+description: "O smrti a príbuzných témach"
+---
+
+<!-- <blockquote>
+        Whether one fears or accepts death depends to a large extent on whether one has learned to accept one's only life cycle.
+        <p style="text-align:right;">
+    -- P.T.P. Wong
+    </p>
+    </blockquote> -->
+    
+{% for post in paginator.posts %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">
+            {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+        <div class="post-content-preview">
+            {{ post.content | strip_html | truncate:500 }}
+        </div>
+    </a>
+    <p class="post-meta">
+        Pridané autorom {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} dňa {{ post.date | date: "%-d.%-m.%Y" }}
+    </p>
+</div>
+<hr>
+{% endfor %}
+
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+<ul class="pager">
+    {% if paginator.previous_page %}
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Novšie príspevky</a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="next">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Staršie príspevky &rarr;</a>
+    </li>
+    {% endif %}
+</ul>
+{% endif %}

@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      "Test"
+subtitle:   ""
+date:       2018-08-18
+author:     "Memento Mori"
+header-img: "img/cinter3.jpg"
+tags:
+    - Smrť
+    - Philippe Ariès 
+    - Death studies
+    - Nemocnica
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam condimentum posuere vestibulum. Nullam id placerat dolor. Phasellus consequat diam et augue aliquam, et condimentum urna consequat. Duis pretium mauris laoreet urna dictum pellentesque. Quisque eros lorem, aliquam vitae dolor at, vehicula consequat enim. Aliquam ut sem eget metus fermentum rhoncus. Integer laoreet feugiat nibh, id vestibulum mi placerat vitae. Nunc ipsum risus, euismod nec vestibulum quis, feugiat quis justo. Donec id facilisis nisi, nec pulvinar ante.
+
+Duis a orci sagittis, venenatis libero at, viverra leo. Vestibulum vel lorem sit amet eros pharetra tristique. Vivamus vitae ipsum at velit rhoncus consequat. Pellentesque ex nunc, iaculis at odio id, vestibulum auctor sapien. In interdum dolor et risus imperdiet tincidunt et eget est. Morbi sodales pretium elit. Nam suscipit dignissim risus, eget congue enim. Vivamus dui erat, venenatis sit amet interdum sit amet, accumsan non leo. Aliquam dapibus tempor scelerisque.
+
+Cras pretium, magna vel suscipit feugiat, metus justo porta ante, in fringilla velit tellus eget ipsum. Fusce turpis metus, ultrices quis pharetra ac, condimentum non libero. Proin pharetra ullamcorper lorem, sit amet tristique felis ornare tincidunt. Nunc viverra eget risus vel tincidunt. Donec molestie sed dui vitae viverra. Phasellus vel tellus ac orci porttitor sollicitudin. Maecenas suscipit vel turpis in condimentum. Vivamus auctor augue et metus rutrum vulputate.
+
+
