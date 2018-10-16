@@ -4,7 +4,7 @@ title:      "Test"
 subtitle:   ""
 date:       2018-08-18
 author:     "Memento Mori"
-header-img: "img/cinter3.jpg"
+header-img: "img/test.jpg"
 tags:
     - Smrť
     - Philippe Ariès 
