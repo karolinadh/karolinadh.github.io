@@ -38,13 +38,13 @@
 .sidebar-container .short-about img {
   width: 100%;
   display: block;
-  border-radius: 5px;
+  border-radius: 3px;
   margin-bottom: 20px;
 }
 .sidebar-container .short-about p {
   margin-top: 0px;
   margin-bottom: 20px;
-  text-align: justify;
+  text-align: left;
 }
 .sidebar-container .short-about .list-inline > li {
   padding-left: 0px;
@@ -827,9 +827,9 @@ body {
   }
 }
 .one-tag-list {
-  border: 2px solid #ddd;
+  border: 1px solid #ddd;
   padding: 15px;
-  margin-bottom: 15px;
+  margin-top: 30px;
   border-radius: 10px;
 }
 .one-tag-list .tag-text {
@@ -985,4 +985,7 @@ blockquote{
 
 textarea {
   width: 100% !important;
+}
+#gform{
+  margin-top: 20px;
 }
