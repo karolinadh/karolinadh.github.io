@@ -70,7 +70,7 @@ disqus_username: Blogosmrti
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.,
-sidebar-about-description: "Vitajte na mojom blogu! In aliquam odio ut tempor rhoncus. Morbi molestie ante eu lectus porta eleifend. <br> <br> Donec at lacus sollicitudin, molestie turpis rhoncus, consectetur enim. Cras cursus pellentesque aliquam."
+sidebar-about-description: "Vitajte na mojom blogu! K téme smrti som sa dostala trochu neúmyselne počas štúdia na vysokej škole, vďaka ktorému som sa oboznámila s niektorými teóriami a poznatkami, ktoré vzišli z výskumov smrti a umierania. <br> <br> Tento blog som vytvorila ako priestor, v ktorom téma smrti nie je niečo morbídne fascinujúce, ale naša každodenná realita a zároveň realita, s ktorou by sa každý z nás mal časom zmieriť."
 sidebar-avatar: /img/memento_profile.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`s
 
 
