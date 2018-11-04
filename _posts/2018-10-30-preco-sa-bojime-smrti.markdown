@@ -11,6 +11,7 @@ tags:
     - Strach
     - Úzkosť
     - Wong
+    - Death Attitudes
 ---
 
 Hovorí sa, že smrť je jednou z mála istot, ktoré v živote človek má – je totiž jedno, kto sme a čo robíme, isté je, že jedného dňa zomrieme. V čom si však už takí istí byť nemôžeme je to, za akých okoľností k tomu dôjde. Dokonca si nemôžeme byť ani istí, či smrť je definitívnym koncom našej existencie. A práve táto neistota v nás vyvoláva úzkosť až strach. 
