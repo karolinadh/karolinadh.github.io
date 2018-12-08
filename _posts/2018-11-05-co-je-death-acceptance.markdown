@@ -11,6 +11,7 @@ tags:
     - Elisabeth Kübler-Ross
     - Wong
     - Pozitívna psychológia
+    - Výskum
    
 ---
 

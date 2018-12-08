@@ -11,6 +11,7 @@ tags:
     - Death studies
     - Nemocnica
     - Death Attitudes
+    - Výskum
 ---
 
 Pred pár mesiacmi v správach informovali o tom, že v Česku jedna politická strana navrhuje zákaz reklamy pohrebných služieb v blízkosti nemocníc, argumentujúc, že je to „neetické, necitlivé a to posledné, čo chce človek vidieť“. Okrem toho, že tento návrh neprešiel, lebo zámer bol označený za nerealizovateľný a zbytočný potvrdzuje aj to, s čím sa stretne každý, kto sa začne trochu viac venovať téme smrti – že to, čo bolo kedysi prirodzenou súčasťou života, sa teraz stalo niečím, o čom sa nehovorí, neukazuje a možno dokonca nad čím sa ani nepremýšľa.
