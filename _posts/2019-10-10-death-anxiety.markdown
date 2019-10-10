@@ -9,6 +9,7 @@ tags:
     - Smrť
     - Death anxiety
     - Úzkosť
+    - Death acceptance
     
 ---
 
