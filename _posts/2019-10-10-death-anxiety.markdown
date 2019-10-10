@@ -15,7 +15,7 @@ tags:
 
 Pomaly sa blíži čas, kedy sa vyberieme na hroby svojich blízkych, aby sme im položili veniec alebo zapálili sviečku. V tento čas si nejeden z nás pomyslí, „aj mňa to raz čaká“. Čo vtedy pociťujeme? Je to strach? Úzkosť? Neistota? Smútok? Myslíme vtedy viac na seba či našich zosnulých? 
 
-V jednom z predošlých príspevkov som sa už venovala pojmu <em>death acceptance</em> (zmierenie sa so smrťou), s blížiacimi sa „dušičkami“ som sa rozhodla napísať aj niečo o <em>death anxiety</em> – úzkosti so smrti. Čo hovorí o tomto pocite výskum? <a href="https://www.tandfonline.com/doi/abs/10.1080/07481189608252787">Tomer a Eliason (1996)</a> vo svojom výskume definujú úzkosť zo smrti ako negatívnu emocionálnu reakciu vyvolanú očakávaním stavu, v ktorom „ja“ neexistuje. V svojej práci navrhli model, v ktorom je táto úzkosť určovaná nasledovnými premennými: 
+V jednom z predošlých príspevkov som sa už venovala pojmu <em>death acceptance</em> (zmierenie sa so smrťou), s blížiacimi sa „dušičkami“ som sa rozhodla napísať aj niečo o <em>death anxiety</em> – úzkosti so smrti. Čo hovorí o tomto pocite výskum? <a href="https://psycnet.apa.org/record/1996-05584-002">Tomer a Eliason (1996)</a> vo svojom výskume definujú úzkosť zo smrti ako negatívnu emocionálnu reakciu vyvolanú očakávaním stavu, v ktorom „ja“ neexistuje. V svojej práci navrhli model, v ktorom je táto úzkosť určovaná nasledovnými premennými: 
 <ul>
 	<li>ľútosťou z minulosti,</li>
 	<li>ľútosťou z budúcnosti,</li>
